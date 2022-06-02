@@ -1,0 +1,131 @@
+let cars = `[
+    {
+        "id": "1",
+        "carname": "Mercedes",
+        "image": "https://images.prismic.io/shacarlacca/ODEwZmE4MzMtZTE0Ny00N2JkLWFhOTMtZGYxMjk3MWU4NmI2__10.jpg?auto=compress%2Cformat&rect=0%2C0%2C1600%2C900&w=1200&h=1200", 
+        "ps": "127 PS",
+        "details":":47"
+    }, 
+    {
+        "id":"2",
+        "carname":"BMW",
+        "image":"https://i1.wp.com/radical-mag.com/wp-content/uploads/2020/07/200618-BMW-i8-TW1-0003.jpg?fit=1440%2C810",
+        "ps": "362 PS",
+        "details":0
+        
+    },
+    {
+        "id":"3",
+        "carname":"Audi R8",
+        "image":"https://cdn.motor1.com/images/mgl/q3Qpv/s1/2019-audi-r8.webp",
+        "ps": "620 PS",
+        "details":0
+    
+    },
+    {
+        "id":"4",
+        "carname":"Audi2 R8",
+        "image":"https://cdn.motor1.com/images/mgl/q3Qpv/s1/2019-audi-r8.webp",
+        "ps": "620 PS",
+        "details":0
+    
+    },
+    {
+        "id":"4",
+        "carname":"Audi2 R8",
+        "image":"https://cdn.motor1.com/images/mgl/q3Qpv/s1/2019-audi-r8.webp",
+        "ps": "620 PS",
+        "details":0
+    
+    },
+    {
+        "id":"4",
+        "carname":"Audi2 R8",
+        "image":"https://cdn.motor1.com/images/mgl/q3Qpv/s1/2019-audi-r8.webp",
+        "ps": "620 PS",
+        "details":0
+    
+    },
+    {
+        "id":"4",
+        "carname":"Audi2 R8",
+        "image":"https://cdn.motor1.com/images/mgl/q3Qpv/s1/2019-audi-r8.webp",
+        "ps": "620 PS",
+        "details":0
+    
+    },
+    {
+        "id":"4",
+        "carname":"Audi2 R8",
+        "image":"https://cdn.motor1.com/images/mgl/q3Qpv/s1/2019-audi-r8.webp",
+        "ps": "620 PS",
+        "details":0
+    
+    },
+    {
+        "id":"4",
+        "carname":"Audi2 R8",
+        "image":"https://cdn.motor1.com/images/mgl/q3Qpv/s1/2019-audi-r8.webp",
+        "ps": "620 PS",
+        "details":0
+    
+    }
+   
+]`
+
+let users = `[
+    {
+        "id": "1",
+        "fullname": "Hans Wurst",
+        "image": "https://img.welt.de/img/geschichte/mobile132257365/8642507307-ci102l-w1024/Forscher-geben-den-Ahnen-des-Menschen-ein-Gesicht.jpg",
+        "age": 12, 
+        "profession": "picker",
+        "":0
+        
+    }, 
+    {
+        "id":"2",
+        "fullname":"Gerald Werner",
+        "image":"https://ais.badische-zeitung.de/piece/0a/ac/3a/e0/179059424-h-720.jpg",
+        "age": 16,
+        "profession": "fisherman",
+        "likes":0
+        
+    },
+    {
+        "id":"3",
+        "fullname":"Pauline Würth",
+        "image":"https://austria-forum.org/attach/Wissenssammlungen/Essays/Naturwissenschaften/Spezialwerkzeuge_Neandertaler/Neandertaler.jpg",
+        "age": 26,
+        "profession": "hunter",
+        "likes":0
+    
+    }
+]`
+
+let animals = `[
+    {
+        "id": "1",
+        "animal": "cheetah",
+        "image": "https://www.prowildlife.de/wp-content/uploads/2022/02/gepard.jpg",
+        "maxspeed": 112 "kmh",
+        "likes":0
+        
+    }, 
+    {
+        "id": "2",
+        "animal": "tiger",
+        "image": "https://www.wwf.de/fileadmin/_processed_/e/0/csm_tiger-indien-WW1143022-c-Narayanan-Iyer-Naresh-WWF-International_c8ec264a19.jpg",
+        "maxspeed": 64 "kmh",
+        "likes":0
+        
+    },
+    {
+        "id": "3",
+        "animal": "leopard",
+        "image": "https://africafreak.com/wp-content/uploads/2019/04/leopard-on-the-run-Serengeti-900x600.jpg",
+        "maxspeed": 58 "kmh",
+        "likes":0
+    }
+]`
+

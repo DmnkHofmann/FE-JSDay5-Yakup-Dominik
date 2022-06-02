@@ -1,0 +1,16 @@
+let menue = `[
+    {
+        "carname": "Mercedes",
+        "image": "https://images.prismic.io/shacarlacca/ODEwZmE4MzMtZTE0Ny00N2JkLWFhOTMtZGYxMjk3MWU4NmI2__10.jpg?auto=compress%2Cformat&rect=0%2C0%2C1600%2C900&w=1200&h=1200", 
+        "ps": "127 PS",
+        "likes":0
+    }, 
+    {
+        "id":"2",
+        "carname":"BMW",
+        "image":"https://i1.wp.com/radical-mag.com/wp-content/uploads/2020/07/200618-BMW-i8-TW1-0003.jpg?fit=1440%2C810",
+        "ps": "362 PS",
+        "likes":0
+        
+    },
+]`

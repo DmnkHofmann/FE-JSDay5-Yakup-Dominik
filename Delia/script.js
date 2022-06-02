@@ -29,6 +29,7 @@ printCards = () => {
           </div>
         </div>
       </div>
+      
     </div>`;
   });
 };
